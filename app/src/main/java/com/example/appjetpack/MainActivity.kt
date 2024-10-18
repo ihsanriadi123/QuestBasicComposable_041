@@ -78,6 +78,7 @@ fun BasicCompose(ihsan: Modifier = Modifier){
             color = Color.Blue,
             fontWeight = FontWeight.Bold
             )
+        //menampilkan teks dengan berbagai gaya dan pengaturan
 
         Text(text = "Muhammad Ihsan Putra Riadi",
             fontSize = 25.sp,
