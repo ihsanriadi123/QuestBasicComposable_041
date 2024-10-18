@@ -101,6 +101,7 @@ fun BasicCompose(ihsan: Modifier = Modifier){
         )
     }
 }
+//untuk menampilkan gambar dengan pengaturan yang disesuaikan di Compose
 
 
 @Composable
