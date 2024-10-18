@@ -47,6 +47,7 @@ class MainActivity : ComponentActivity() {
 //menambahkan fungsi @Preview untuk menampilkan komponen BasicCompose dengan latar belakang di dalam editor
 @Composable
 fun BasicCompose(ihsan: Modifier = Modifier){
+    //
     Column(
         verticalArrangement = Arrangement.Center,
         modifier = Modifier.fillMaxSize(),
