@@ -71,6 +71,7 @@ fun BasicCompose(ihsan: Modifier = Modifier){
             contentDescription = null,
             modifier = Modifier.size(250.dp)
         )
+        //menampilkan gambar dari resource R.drawable.images dengan ukuran 250 dp x 250 dp, tanpa deskripsi alternatif untuk aksesibilitas
 
         Text(text = "Nama",
             fontSize = 30.sp,
