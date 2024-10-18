@@ -53,6 +53,7 @@ fun BasicCompose(ihsan: Modifier = Modifier){
         modifier = Modifier.fillMaxSize(),
         horizontalAlignment = Alignment.CenterHorizontally,
     ) {
+        //untuk mengatur tata letak elemen-elemen anaknya dalam bentuk kolom (vertikal) di Compose (Jetpack Compose di Android)
         Text(text = "KAI SERVICES", modifier = ihsan,
             fontSize = 60.sp,
             color = Color.Green,
