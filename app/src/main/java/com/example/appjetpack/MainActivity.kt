@@ -120,3 +120,5 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
+
+//untuk menyediakan pratinjau (preview) dari tampilan UI dalam Android Studio saat menggunakan Jetpack Compose
