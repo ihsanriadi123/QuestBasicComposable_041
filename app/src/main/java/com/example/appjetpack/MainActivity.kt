@@ -28,6 +28,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
+        // membuat class activity yang dikerjakan
         setContent {
             AppjetpackTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
