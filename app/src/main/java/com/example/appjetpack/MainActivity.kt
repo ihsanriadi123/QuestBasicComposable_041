@@ -65,6 +65,7 @@ fun BasicCompose(ihsan: Modifier = Modifier){
             color = Color.Blue,
             fontFamily = FontFamily.Serif
             )
+        //menampilkan teks "BERKOMITMEN MEMBANGUN" dengan ukuran font 25 sp, berwarna biru, dan menggunakan gaya font Serif, yang memberikan tampilan klasik atau formal pada teks.
         Image(
             painter = painterResource(id = R.drawable.images),
             contentDescription = null,
