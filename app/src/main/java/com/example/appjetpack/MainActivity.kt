@@ -59,6 +59,7 @@ fun BasicCompose(ihsan: Modifier = Modifier){
             color = Color.Green,
             fontWeight = FontWeight.Bold
             )
+        //menampilkan teks dengan berbagai gaya dan pengaturan di Compose
         Text(text = "BERKOMITMEN MEMBANGUN",
             fontSize = 25.sp,
             color = Color.Blue,
