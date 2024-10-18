@@ -92,6 +92,7 @@ fun BasicCompose(ihsan: Modifier = Modifier){
             color = Color.Black,
             fontWeight = FontWeight.Bold
             )
+        //untuk menampilkan teks "20220140041" dengan ukuran font 25 sp, berwarna hitam, dan dengan gaya font tebal
 
         Image(
             painter = painterResource(id = R.drawable.ihsan),
