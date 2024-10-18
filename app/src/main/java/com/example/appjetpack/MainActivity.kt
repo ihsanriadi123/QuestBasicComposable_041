@@ -85,6 +85,7 @@ fun BasicCompose(ihsan: Modifier = Modifier){
             color = Color.Red,
             fontFamily = FontFamily.Default
             )
+        //untuk menampilkan teks dengan gaya dan pengaturan yang telah ditentukan
 
         Text(text = "20220140041",
             fontSize = 25.sp,
