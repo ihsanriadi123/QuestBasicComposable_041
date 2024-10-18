@@ -111,6 +111,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         modifier = modifier
     )
 }
+//untuk menampilkan pesan salam yang dinamis di Jetpack Compose
 
 @Preview(showBackground = true)
 @Composable
